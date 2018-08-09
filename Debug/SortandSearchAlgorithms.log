@@ -1,4 +1,0 @@
-﻿  SearchandSort.cpp
-c:\users\ricar\source\repos\sortandsearchalgorithms\sortandsearchalgorithms\searchandsort.cpp(131): warning C4101: 'swap': unreferenced local variable
-c:\users\ricar\source\repos\sortandsearchalgorithms\sortandsearchalgorithms\searchandsort.cpp(130): warning C4101: 'scanArray': unreferenced local variable
-  SortandSearchAlgorithms.vcxproj -> c:\users\ricar\source\repos\SortandSearchAlgorithms\Debug\SortandSearchAlgorithms.exe
